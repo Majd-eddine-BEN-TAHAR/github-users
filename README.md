@@ -1,4 +1,21 @@
+## For live preview visit : [github-users](https://majd-eddine-ben-tahar.github.io/github-jobs-api/)
+
+https://majd-eddine-ben-tahar.github.io/github-users/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Gihthub API
+
+- [Root Endpoint](https://api.github.com)
+- [Get User](https://api.github.com/users/majd-eddine-ben-tahar)
+- [Repos](https://api.github.com/users/majd-eddine-ben-tahar/repos?per_page=100)
+- [Followers](https://api.github.com/users/majd-eddine-ben-tahar/followers)
+- [Rate Limit](https://api.github.com/rate_limit)
+
+## ChartsJS
+
+- [Chart.js](https://www.chartjs.org/)
+- [react-chartjs-2](https://reactchartjs.github.io/react-chartjs-2/#/)
 
 ## Available Scripts
 
@@ -66,3 +83,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# github-users
