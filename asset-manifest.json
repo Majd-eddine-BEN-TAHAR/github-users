@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/github-users/static/css/main.c03de443.chunk.css",
+    "main.js": "/github-users/static/js/main.3450370a.chunk.js",
+    "main.js.map": "/github-users/static/js/main.3450370a.chunk.js.map",
+    "runtime-main.js": "/github-users/static/js/runtime-main.bcf65e47.js",
+    "runtime-main.js.map": "/github-users/static/js/runtime-main.bcf65e47.js.map",
+    "static/js/2.a0078ca4.chunk.js": "/github-users/static/js/2.a0078ca4.chunk.js",
+    "static/js/2.a0078ca4.chunk.js.map": "/github-users/static/js/2.a0078ca4.chunk.js.map",
+    "index.html": "/github-users/index.html",
+    "precache-manifest.2e7c46945d47ac79454c3c065aa5fbfe.js": "/github-users/precache-manifest.2e7c46945d47ac79454c3c065aa5fbfe.js",
+    "service-worker.js": "/github-users/service-worker.js",
+    "static/css/main.c03de443.chunk.css.map": "/github-users/static/css/main.c03de443.chunk.css.map",
+    "static/js/2.a0078ca4.chunk.js.LICENSE.txt": "/github-users/static/js/2.a0078ca4.chunk.js.LICENSE.txt",
+    "static/media/follower.svg": "/github-users/static/media/follower.37b1590d.svg",
+    "static/media/followers.svg": "/github-users/static/media/followers.a8ddaba2.svg",
+    "static/media/link.svg": "/github-users/static/media/link.e5a60751.svg",
+    "static/media/location.svg": "/github-users/static/media/location.a4737ab7.svg",
+    "static/media/loupe.svg": "/github-users/static/media/loupe.ecef733a.svg",
+    "static/media/notebook.svg": "/github-users/static/media/notebook.49b31114.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf65e47.js",
+    "static/js/2.a0078ca4.chunk.js",
+    "static/css/main.c03de443.chunk.css",
+    "static/js/main.3450370a.chunk.js"
+  ]
+}
