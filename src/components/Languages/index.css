@@ -1,0 +1,11 @@
+.languages-section {
+  position: relative;
+  background-color: var(--lightYellow);
+  padding: 10px 25px;
+}
+
+.chart-centred {
+  height: 100%;
+  display: grid;
+  place-items: center;
+}

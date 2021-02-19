@@ -1,0 +1,31 @@
+.user-info {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  width: 100%;
+  max-width: 1000px;
+  margin: 39px auto 100px auto;
+}
+
+.item {
+  background-color: var(--lightYellow);
+  display: flex;
+  padding: 0px 25px;
+}
+.item-image {
+  flex: 1;
+  max-width: 35px;
+  margin-right: 20px;
+}
+.item-data {
+  flex: 3;
+}
+.data-value {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 10px 0;
+}
+.data-label {
+  text-transform: capitalize;
+  margin: 10px 0;
+}

@@ -1,0 +1,39 @@
+.followers-section {
+  position: relative;
+  background-color: var(--lightYellow);
+}
+
+.followers-container {
+  width: 100%;
+  height: 92%;
+  position: absolute;
+  overflow-y: scroll;
+  top: 20px;
+  left: 0;
+  padding: 10px 25px;
+  padding-top: 25px;
+}
+.follower {
+  display: flex;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.follower img {
+  width: 50px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+.follower h4 {
+  margin: 0;
+  text-transform: capitalize;
+}
+
+.follower a {
+  color: var(--lightBlue);
+}
+
+.follower a:hover {
+  color: var(--darkBlue);
+}

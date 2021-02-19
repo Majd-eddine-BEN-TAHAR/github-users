@@ -1,0 +1,5 @@
+.popular-repos-section {
+  position: relative;
+  background-color: var(--lightYellow);
+  padding: 10px 25px;
+}

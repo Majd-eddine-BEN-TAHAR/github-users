@@ -1,0 +1,83 @@
+.user-section {
+  position: relative;
+  background-color: var(--lightYellow);
+}
+.user-header {
+  width: 100%;
+  padding-top: 30px;
+  padding: 30px 10px 10px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.header-left {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.header-left img {
+  border-radius: 100%;
+  margin-right: 10px;
+  width: 70px;
+  height: 70px;
+}
+
+.header-left div {
+}
+.header-left div h4 {
+  word-wrap: break-word;
+  text-transform: capitalize;
+  margin-bottom: 7px;
+}
+.header-left div p {
+  margin-top: 0px;
+  color: var(--text);
+}
+
+.header-right {
+  margin-left: 10px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background-color: var(--darkYellow);
+  color: var(--blue);
+  font-weight: 700;
+  padding: 8px 15px;
+  border-radius: 20px;
+  margin-top: 15px;
+}
+.header-right:hover {
+  background-color: var(--yellow);
+}
+.user-data {
+  padding: 10px;
+}
+
+.description {
+  margin: 20px 0 40px 0;
+  color: var(--text);
+}
+.links {
+}
+.links p {
+  display: flex;
+  align-items: center;
+  color: var(--lightBlue);
+}
+.links p img {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.links p a {
+  color: var(--lightBlue);
+
+  display: inline-block;
+  width: 80%;
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+}
+
+.links p a:hover {
+  color: var(--darkBlue);
+}
