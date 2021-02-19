@@ -8,7 +8,7 @@ import "./index.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/github-users">
       <GithubProvider>
         <App />
       </GithubProvider>
